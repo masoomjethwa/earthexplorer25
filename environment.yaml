@@ -1,0 +1,30 @@
+name: python-course-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - streamlit
+  - notebook
+  - nbformat
+  - pandas
+  - numpy
+  - matplotlib
+  - geopandas
+  - cartopy
+  - xarray
+  - netcdf4
+  - folium
+  - requests
+  - psycopg2-binary
+  - sqlalchemy
+  - pip:
+    - nbconvert
+    - contextily
+    - jupyter-client
+    - jupyter-core
+    - jupyter-server
+    - geodatasets
+    - ipywidgets
+    - seaborn
