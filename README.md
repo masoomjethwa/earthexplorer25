@@ -130,4 +130,7 @@ Let’s go on an adventure to learn how to use **Python** (a powerful coding lan
 
 Let’s have fun, learn to code, and discover the wonders of our Earth! 🌎💻✨
 
+Dataset available:
+https://drive.google.com/drive/folders/1no5YMDDe6tVq1rxGdlwGJzursCmrxAT9?usp=drive_link
+
 Would you like me to turn this into a printable PDF handout or classroom slides?
